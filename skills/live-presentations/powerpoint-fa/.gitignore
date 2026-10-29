@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+render/
+artifacts/
+*.pptx
+*.pdf
+*.png
+.env
+.env.*
+!.env.example
+# The showcase examples are tracked on purpose (README embeds the rendered
+# slides and the .pptx as a working sample).
+!examples/
+!examples/**
+reports/_working/
+reports/_raw/
