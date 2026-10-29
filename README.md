@@ -7,4 +7,8 @@
 - منبع، کامیت و مجوز هر پوشه: [`skills/live-presentations/SOURCES.md`](skills/live-presentations/SOURCES.md)
 - آرشیو آمادهٔ دانلود: `live-presentation-skills.zip`
 
+## خروجی نمونه
+
+- ارائهٔ فارسی دوج چلنجر (ساخته‌شده با اسکیل `powerpoint-fa`): [`deliverables/challenger/`](deliverables/challenger/README.md)
+
 هر اسکیل در `skills/live-presentations/<name>/` قرار دارد. هیچ اسکریپت نصبی اجرا نشده است.
